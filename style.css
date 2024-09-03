@@ -121,3 +121,9 @@ h4 {
 .text-right {
 	text-align: right;
 }
+
+@media (max-width: 576px) {
+	html {
+		font-size: 60%;
+	}
+}
